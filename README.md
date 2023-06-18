@@ -46,3 +46,6 @@
 - Francisca Horta Guimarães (202004229)
 - João Pedro Cruz Moreira de Oliveira (202108737)
 
+## Grade
+- 17.4 / 20.0
+
